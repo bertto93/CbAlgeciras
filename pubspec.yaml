@@ -1,0 +1,12 @@
+name: cb_algeciras
+description: App no oficial del CB Algeciras (Segunda FEB).
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+flutter:
+  uses-material-design: true
